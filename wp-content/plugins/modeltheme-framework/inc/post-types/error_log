@@ -1,0 +1,9 @@
+[08-Apr-2019 14:16:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/post-types/post-types.php on line 125
+[08-Aug-2019 10:11:38 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/post-types/post-types.php:125
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/post-types/post-types.php on line 125
+[22-Jan-2020 07:04:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/post-types/post-types.php:125
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/post-types/post-types.php on line 125

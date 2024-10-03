@@ -1,0 +1,1937 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: redux-framework/modeltheme-config.php:176
+#: redux-framework/modeltheme-config.php:178
+#: redux-framework/modeltheme-config.php:182
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-26 13:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16
+msgid "404 Page not found"
+msgstr ""
+
+#: 404.php:44 404.php:54
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:45 404.php:55
+msgid "Sorry, this page does not exist"
+msgstr ""
+
+#: 404.php:46 404.php:56
+msgid ""
+"The link you clicked might be corrupted, or the page may have been removed."
+msgstr ""
+
+#: 404.php:48 404.php:58
+msgid "Return to Homepage"
+msgstr ""
+
+#: comments.php:28 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29 comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "Comments: %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:80
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:81
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:82
+msgid "Add comment"
+msgstr ""
+
+#: comments.php:84
+msgid "Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "You must be "
+msgstr ""
+
+#: comments.php:90
+msgid "logged in"
+msgstr ""
+
+#: comments.php:90
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:96
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:96
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:96
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:108
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:114
+msgid "Your name"
+msgstr ""
+
+#: comments.php:118
+msgid "Your email"
+msgstr ""
+
+#: comments.php:122
+msgid "Your website"
+msgstr ""
+
+#: content-left.php:106 content-right.php:90
+msgid "Read More <i class=\"fa fa-long-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: content-left.php:112 content-page.php:14 content-right.php:96
+#: content-search.php:49 content-single.php:113 content.php:97
+msgid "Pages:"
+msgstr ""
+
+#: content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:19 content-none.php:25
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+msgid "Try to search using another term via the form above"
+msgstr ""
+
+#: content-none.php:26
+msgid "Try to search for posts via the form above"
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:20 inc/custom-comments.php:37
+msgid "Edit"
+msgstr ""
+
+#: content-search.php:35
+msgid "by "
+msgstr ""
+
+#: content-search.php:43
+msgid "Continue reading "
+msgstr ""
+
+#: content-single-portfolio.php:84
+msgid "Project Details "
+msgstr ""
+
+#: content-single-portfolio.php:85
+msgid "Completed:"
+msgstr ""
+
+#: content-single-portfolio.php:88
+msgid "Client:"
+msgstr ""
+
+#: content-single-portfolio.php:98
+msgid "Live demo:"
+msgstr ""
+
+#: content-single.php:100
+msgid "Tags:"
+msgstr ""
+
+#: content-single.php:139
+msgid "Written by"
+msgstr ""
+
+#: content-single.php:203 redux-framework/modeltheme-config.php:2159
+msgid "Related Posts"
+msgstr ""
+
+#: content-single.php:232
+msgid "Posted by "
+msgstr ""
+
+#: content.php:91
+msgid "READ MORE"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:79
+msgid "Sidebar 1"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar "
+msgstr ""
+
+#: functions.php:112 functions.php:114 functions.php:125 functions.php:127
+#: functions.php:138 functions.php:140 functions.php:151 functions.php:153
+msgid "Footer Row 1 - Sidebar "
+msgstr ""
+
+#: functions.php:171 functions.php:173 functions.php:184 functions.php:186
+#: functions.php:197 functions.php:199 functions.php:210 functions.php:212
+msgid "Footer Row 2 - Sidebar "
+msgstr ""
+
+#: functions.php:229 functions.php:231 functions.php:242 functions.php:244
+#: functions.php:255 functions.php:257 functions.php:268 functions.php:270
+msgid "Footer Row 3 - Sidebar "
+msgstr ""
+
+#: functions.php:453
+msgid "Home"
+msgstr ""
+
+#: functions.php:489
+msgid "Shop"
+msgstr ""
+
+#: functions.php:550
+msgid "404 Not Found"
+msgstr ""
+
+#: functions.php:555
+msgid "Page"
+msgstr ""
+
+#: functions.php:626
+msgid "Enter search term..."
+msgstr ""
+
+#: inc/custom-functions.header.php:29
+msgid "Log In"
+msgstr ""
+
+#: inc/custom-functions.header.php:74
+msgid "Primary navigation menu is missing."
+msgstr ""
+
+#: inc/custom-functions.php:76
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/custom-functions.php:93
+msgid "Category: "
+msgstr ""
+
+#: inc/custom-functions.php:110
+msgid "Tag Archives: "
+msgstr ""
+
+#: inc/custom-functions.php:242
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/custom-functions.php:245
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: inc/custom-functions.php:248
+msgid "Share on G+"
+msgstr ""
+
+#: inc/custom-functions.php:251
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: inc/custom-functions.php:254
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/custom-functions.php:257
+msgid "Share on Reddit"
+msgstr ""
+
+#: inc/custom-functions.php:260
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/post-love.php:115
+msgid "loved"
+msgstr ""
+
+#: inc/post-love.php:117
+msgid "failed"
+msgstr ""
+
+#: inc/post-love.php:134
+msgid "You have already loved this item."
+msgstr ""
+
+#: inc/post-love.php:135
+msgid "Sorry, there was a problem processing your request."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:912
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+#: inc/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+#: inc/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1019
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1206
+#: inc/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3594
+#: inc/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:49
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:59
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:69
+msgid "Essential Grids"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:79
+msgid "Parallax Backgrounds for VC"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:89
+msgid "ModelTheme Framework"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:100
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/tgm/include_plugins.php:105
+msgid "Contact Form 7"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:34
+#: redux-framework/modeltheme-config.php:35
+msgid "Theme Panel"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:136
+msgid "Theme Support"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:140
+msgid "Rate this theme"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:144
+msgid "ModelTheme.com"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:150
+msgid "Like us on Facebook"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:155
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:160
+msgid "Submit a Ticket"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:165
+msgid "ModelTheme Website"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:198
+msgid "Theme Information 1"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:199
+#: redux-framework/modeltheme-config.php:204
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:203
+msgid "Theme Information 2"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:210
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:229
+#: redux-framework/modeltheme-config.php:235
+msgid "General Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:248
+msgid "Breadcrumbs"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:249
+msgid "Enable or disable breadcrumbs"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:255
+msgid "Breadcrumbs delimitator"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:256
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:257
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:269
+msgid "CSS Code"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:270
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:279
+msgid "Page Preloader"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:292
+msgid "Enable Page Preloader"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:293
+msgid "Enable or disable page preloader"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:305
+msgid "Page Preloader Backgrond"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:306
+#: redux-framework/modeltheme-config.php:672
+#: redux-framework/modeltheme-config.php:680
+#: redux-framework/modeltheme-config.php:724
+#: redux-framework/modeltheme-config.php:2331
+msgid "Default: #ec1d23"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:317
+msgid "Preloader color:"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:318
+#: redux-framework/modeltheme-config.php:716
+#: redux-framework/modeltheme-config.php:746
+#: redux-framework/modeltheme-config.php:777
+#: redux-framework/modeltheme-config.php:799
+msgid "Default: #ffffff"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:331
+msgid "Preloader Animation"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:332
+msgid "Select Preloader Animation"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:585
+#: redux-framework/modeltheme-config.php:598
+msgid "Sidebars"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:599
+msgid "Use the \"Add More\" button to create unlimited sidebars."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:600
+msgid "Add one more Sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:609
+msgid "Styling Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:614
+msgid "Global Fonts"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:628
+msgid "Import Google Font Globally"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:629
+msgid "Select one or multiple fonts"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:630
+msgid "Importing fonts made easy"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:640
+msgid "Skin color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:653
+msgid "Links Color Option"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:654
+msgid ""
+"Only color validation can be done on this field type(Default Regular: "
+"#ec1d23; Default Hover: #0099d1; Default Active: #0099d1;)"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:671
+msgid "Main texts color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:679
+msgid "Main backgrounds color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:687
+msgid "Main backgrounds color (hover)"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:688
+msgid "Default: #0099d1"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:695
+msgid "Semitransparent blocks background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:696
+msgid "Default: rgba(14, 26, 33, 0.95)"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:715
+msgid "Text selection color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:723
+msgid "Text selection background color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:732
+msgid "Nav Menu"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:745
+msgid "Nav Menu Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:765
+msgid "Nav Submenu Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:766
+msgid "Default: #232331"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:776
+msgid "Nav Submenu Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:787
+#: redux-framework/modeltheme-config.php:798
+msgid "Nav Submenu Hover Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:788
+msgid "Default: #EC1C23"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:809
+msgid "Typography"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:822
+msgid "Body Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:851
+msgid "Heading H1 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:873
+msgid "Heading H2 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:895
+msgid "Heading H3 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:917
+msgid "Heading H4 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:939
+msgid "Heading H5 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:961
+msgid "Heading H6 Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:989
+msgid "Inputs Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1002
+msgid "Font family for inputs and textareas"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1017
+msgid "Buttons Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1032
+msgid "Font family for buttons"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1047
+msgid "Header Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1052
+msgid "Header - General"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1066
+msgid "Select Header layout"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1069
+msgid "Header #1"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1073
+msgid "Header #2"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1077
+msgid "Header #5"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1081
+msgid "Header #8"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1085
+msgid "Header #9"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1089
+msgid "Header #12"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1093
+msgid "Header #13"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1102
+msgid "Sticky Navigation Menu?"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1103
+msgid "Enable or disable \"sticky positioned navigation menu\"."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1105
+#: redux-framework/modeltheme-config.php:1120
+msgid "Enabled"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1106
+#: redux-framework/modeltheme-config.php:1121
+msgid "Disabled"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1117
+msgid "Search Icon Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1118
+msgid "Enable or Disable Search Icon\"."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1127
+msgid "Logo &amp; Favicon"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1141
+msgid "Logo image"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1148
+msgid "Logo Max Width"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1149
+msgid "Use the slider to increase/decrease max size of the logo."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1150
+msgid "Min: 1px, max: 500px, step: 1px, default value: 140px"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1167
+msgid "Favicon url"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1169
+#: redux-framework/modeltheme-config.php:2184
+msgid "Use the upload button to import media."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1176
+msgid "Header - Main Big"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1189
+msgid "Header (main-header) - background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1190
+msgid "Default color: #232331"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1199
+msgid "Main Header texts color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1200
+msgid "Default color: #FFFFFF"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1210
+msgid "Fixed Sidebar Menu"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1223
+msgid "Burger Sidebar Menu Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1224
+msgid "Enable/Disable Burger Sidebar Menu Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1225
+msgid ""
+"This Option Will Enable/Disable The Navigation Burger + Sidebar Menu "
+"triggered by the burger menu"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1240
+msgid "Sidebar Menu Background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1241
+msgid "Default: rgba(255, 255, 255, 0.95) - #ffffff - Opacity: 0.95"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1272
+msgid "Texts Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1279
+msgid "Show Title or Logo"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1280
+msgid "Choose what to show on fixed sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1281
+msgid "Choose Between Site Title or Site Logo"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1294
+msgid "Fixed Sidebar Menu - Sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1295
+msgid "Select Sidebar."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1308
+msgid "Footer Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1315
+msgid "Footer Top Rows"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1328
+msgid "Footer (top) - background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1329
+#: redux-framework/modeltheme-config.php:1760
+msgid "Footer background with image or color."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1338
+msgid "Footer Top Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1339
+#: redux-framework/modeltheme-config.php:1770
+msgid "Set color and alpha channel"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1340
+#: redux-framework/modeltheme-config.php:1771
+msgid ""
+"Set color and alpha channel for footer texts (Especially for widget titles)"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1373
+msgid "Footer Row #1 - Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1374
+msgid "Enable/Disable Footer ROW 1"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1383
+#: redux-framework/modeltheme-config.php:1505
+msgid "Footer Row #1 - Layout"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1386
+#: redux-framework/modeltheme-config.php:1508
+#: redux-framework/modeltheme-config.php:1635
+msgid "Footer 1 Column"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1390
+#: redux-framework/modeltheme-config.php:1512
+#: redux-framework/modeltheme-config.php:1639
+msgid "Footer 2 Columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1394
+#: redux-framework/modeltheme-config.php:1516
+#: redux-framework/modeltheme-config.php:1643
+msgid "Footer 3 Columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1398
+#: redux-framework/modeltheme-config.php:1520
+#: redux-framework/modeltheme-config.php:1647
+msgid "Footer 4 Columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1402
+#: redux-framework/modeltheme-config.php:1524
+#: redux-framework/modeltheme-config.php:1651
+msgid "Footer 5 Columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1406
+#: redux-framework/modeltheme-config.php:1528
+#: redux-framework/modeltheme-config.php:1655
+msgid "Footer 6 Columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1410
+#: redux-framework/modeltheme-config.php:1532
+#: redux-framework/modeltheme-config.php:1659
+msgid "Footer 6 + 3 + 3"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1414
+#: redux-framework/modeltheme-config.php:1536
+#: redux-framework/modeltheme-config.php:1663
+msgid "Footer 3 + 3 + 6"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1418
+#: redux-framework/modeltheme-config.php:1540
+#: redux-framework/modeltheme-config.php:1667
+msgid "Footer 2 + 2 + 2 + 2 + 4"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1422
+#: redux-framework/modeltheme-config.php:1544
+#: redux-framework/modeltheme-config.php:1671
+msgid "Footer 4 + 2 + 2 + 2 + 2"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1426
+#: redux-framework/modeltheme-config.php:1548
+#: redux-framework/modeltheme-config.php:1675
+msgid "Footer 2 + 2 + 2 + 6"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1430
+#: redux-framework/modeltheme-config.php:1552
+#: redux-framework/modeltheme-config.php:1679
+msgid "Footer 6 + 2 + 2 + 2"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1444
+msgid "Footer Row #1 - Padding"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1445
+msgid "Choose the spacing for the first row from footer."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1460
+msgid "Footer Row #1 - Margin"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1461
+#: redux-framework/modeltheme-config.php:1586
+#: redux-framework/modeltheme-config.php:1713
+msgid "Choose the margin for the first row from footer."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1472
+msgid "Footer Row #1 - Borders"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1473
+#: redux-framework/modeltheme-config.php:1600
+#: redux-framework/modeltheme-config.php:1727
+msgid "Only color validation can be done on this field"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1495
+msgid "Footer Row #2 - Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1496
+msgid "Enable/Disable Footer ROW 2"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1567
+msgid "Footer Row #2 - Padding"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1568
+msgid "Choose the spacing for the second row from footer."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1585
+msgid "Footer Row #2 - Margin"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1599
+msgid "Footer Row #2 - Borders"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1622
+msgid "Footer Row #3 - Status"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1623
+msgid "Enable/Disable Footer ROW 3"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1632
+msgid "Footer Row #3 - Layout"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1694
+msgid "Footer Row #3 - Padding"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1695
+msgid "Choose the spacing for the third row from footer."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1712
+msgid "Footer Row #3 - Margin"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1726
+msgid "Footer Row #3 - Borders"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1746
+msgid "Footer Bottom Bar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1753
+msgid "Footer Text"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1759
+msgid "Footer (bottom) - background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1769
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1806
+msgid "Contact Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1812
+msgid "Contact"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1819
+msgid "Phone Number"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1820
+msgid "Contact phone number displayed on the contact us page."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1826
+msgid "Email"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1827
+msgid ""
+"Contact email displayed on the contact us page., additional info is good in "
+"here."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1835
+msgid "Address"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1836
+msgid "Enter your contact address"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1843
+msgid "Mailchimp"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1850
+msgid "Mailchimp apiKey"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1851
+msgid "To enable Mailchimp please type in your apiKey"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1857
+msgid "Mailchimp listId"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1858
+msgid "To enable Mailchimp please type in your listId"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1864
+msgid "Mailchimp form datacenter"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1865
+msgid "To enable Mailchimp please type in your form datacenter"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1876
+msgid "Blog Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1882
+msgid "Blog Archive"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1896
+msgid "Blog List Layout"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1897
+#: redux-framework/modeltheme-config.php:2086
+msgid "Select Blog List layout."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1900
+#: redux-framework/modeltheme-config.php:2089
+msgid "2 Columns - Left sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1904
+#: redux-framework/modeltheme-config.php:2093
+msgid "1 Column - Full width"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1908
+#: redux-framework/modeltheme-config.php:2097
+msgid "2 Columns - Right sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1918
+msgid "Blog List Sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1919
+#: redux-framework/modeltheme-config.php:2108
+msgid "Select Blog List Sidebar."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1926
+msgid "How to display posts"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1927
+msgid "Select how you want to display post on blog list."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1938
+msgid "Grid columns"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1939
+msgid "Select how many columns you want."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1956
+msgid "Sticky Posts"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1957
+msgid "Enable or disable \"sticky posts\" section on blog page"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1963
+msgid "Sticky Post Title"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1964
+msgid "Enter the text you want to display as sticky post title."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1970
+msgid "Blog Post Title"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1971
+msgid "Enter the text you want to display as blog post title."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1979
+msgid "Author Archive"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:1993
+msgid "Author Posts Archive Header Image"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2002
+msgid "Categories Archive"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2016
+msgid "Blog Categories Archive Header Image"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2025
+msgid "Tags Archive"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2039
+msgid "Blog Tags Archive Header Image"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2048
+msgid "Search Archive"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2062
+msgid "Search Archive Header Image"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2071
+msgid "Single Post"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2085
+msgid "Single Blog List Layout"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2107
+msgid "Single Blog List Sidebar"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2121
+msgid "Blog Post Font family"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2122
+msgid "Default color: #454646; Font-size: 18px; Line-height: 29px;"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2152
+msgid "Single post featured image."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2153
+msgid "Show or Hide the featured image from blog post page.\"."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2160
+msgid "Enable or disable related posts"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2166
+msgid "Post Navigation"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2167
+msgid "Enable or disable post navigation"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2173
+msgid "About Author"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2174
+msgid "Enable or disable \"About author\" section on single post"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2182
+msgid "Author Default Placeholder Thumbnail"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2190
+msgid "Post Formats Icons"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2200
+msgid "404 Page Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2205
+msgid "404 Page"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2212
+msgid "Select page"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2223
+msgid "Elements"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2228
+msgid "Tabs"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2241
+msgid "Tabs Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2242
+#: redux-framework/modeltheme-config.php:2280
+#: redux-framework/modeltheme-config.php:2354
+#: redux-framework/modeltheme-config.php:2388
+msgid "Default: #666666"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2249
+msgid "Tabs Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2250
+#: redux-framework/modeltheme-config.php:2362
+#: redux-framework/modeltheme-config.php:2396
+msgid "Default: #f8f8f8"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2260
+msgid "Tabs Border Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2261
+#: redux-framework/modeltheme-config.php:2372
+#: redux-framework/modeltheme-config.php:2409
+msgid "Default: #f0f0f0"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2279
+#: redux-framework/modeltheme-config.php:2387
+msgid "Active and Hover Tabs Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2287
+msgid "Active and Hover Tabs Background"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2288
+msgid "Default: #ebebeb"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2297
+#: redux-framework/modeltheme-config.php:2408
+msgid "Active and Hover Tabs Border Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2298
+msgid "Default: #e3e3e3"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2307
+msgid "Blockquotes"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2320
+msgid "Blockquotes Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2321
+msgid "Default: #f6f6f6"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2330
+msgid "Blockquotes Border Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2340
+msgid "Accordions"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2353
+msgid "Accordions Text Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2361
+msgid "Accordions Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2371
+msgid "Accordions Border Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2395
+msgid "Active and Hover Tabs Background Color"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2426
+msgid "Social Media Settings"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2431
+msgid "Social Media"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2444
+msgid "Facebook URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2445
+msgid "Type your Facebook url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2452
+msgid "Twitter username"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2453
+msgid "Type your Twitter username."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2459
+msgid "Pinterest URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2460
+msgid "Type your Pinterest url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2467
+msgid "Skype Name"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2468
+msgid "Type your Skype username."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2474
+msgid "Instagram URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2475
+msgid "Type your Instagram url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2482
+msgid "YouTube URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2483
+msgid "Type your YouTube url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2490
+msgid "Dribbble URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2491
+msgid "Type your Dribbble url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2498
+msgid "Google+ URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2499
+msgid "Type your Google+ url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2506
+msgid "LinkedIn URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2507
+msgid "Type your LinkedIn url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2514
+msgid "Deviant Art URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2515
+msgid "Type your Deviant Art url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2522
+msgid "Digg URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2523
+msgid "Type your Digg url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2530
+msgid "Flickr URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2531
+msgid "Type your Flickr url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2538
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2539
+msgid "Type your Stumbleupon url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2546
+msgid "Tumblr URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2547
+msgid "Type your Tumblr url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2554
+msgid "Vimeo URL"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2555
+msgid "Type your Vimeo url."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2568
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2569
+msgid "Type your Twitter Consumer key."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2575
+msgid "Twitter Consumer Secret key"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2576
+msgid "Type your Twitter Consumer Secret key."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2582
+msgid "Twitter Access Token"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2583
+msgid "Type your Access Token."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2589
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2590
+msgid "Type your Twitter Access Token Secret."
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2666
+msgid "Section via hook"
+msgstr ""
+
+#: redux-framework/modeltheme-config.php:2667
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options"
+msgstr ""

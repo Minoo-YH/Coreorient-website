@@ -1,0 +1,12 @@
+[18-Aug-2019 11:06:48 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php on line 24
+[05-Feb-2020 17:13:12 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php on line 24
+[28-Dec-2021 04:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-title-subtitle/mt-title-subtitle.php on line 24

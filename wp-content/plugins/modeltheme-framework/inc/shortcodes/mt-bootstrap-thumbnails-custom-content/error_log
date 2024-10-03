@@ -1,0 +1,17 @@
+[08-Apr-2019 15:20:53 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php on line 38
+[13-Aug-2019 23:47:02 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php on line 38
+[28-Dec-2019 09:57:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php on line 38
+[19-Jun-2020 19:33:54 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php on line 38
+[26-Dec-2021 02:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-thumbnails-custom-content/mt-bootstrap-thumbnails-custom-content.php on line 38

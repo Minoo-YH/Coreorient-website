@@ -1,0 +1,54 @@
+.text-dark .statistics .stats-head *{
+    color: #00aeef;
+}
+.text-dark .statistics .stats-content p {
+    color: #747474;
+}
+.stats-block.statistics.bordered {
+    border: 1px solid #d1d1d1;
+    padding: 10px 0;
+}
+.stats-content {
+    margin-top: 30px;
+}
+.stats-content .skill-count {
+    color: #fff;
+    display: block;
+    font-size: 50px;
+    line-height: 37px;
+    text-align: center;
+}
+.stat-number.skill.percentage {
+    margin-bottom: 0;
+}
+.stats-head * {
+	font-size: 50px;
+	color: #FFF;
+	text-align: center;
+}
+.stats-content p {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 0px;
+}
+.stats-head i {
+    clear: both;
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 80px;
+    padding-right: 0;
+}
+.stats-content p {
+    font-size: 20px;
+    color: #FFF;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+

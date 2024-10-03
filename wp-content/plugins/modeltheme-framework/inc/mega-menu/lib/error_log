@@ -1,0 +1,3 @@
+[09-Aug-2019 04:41:06 Europe/Bucharest] PHP Fatal error:  Class 'Walker_Nav_Menu_Edit' not found in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/lib/class.modeltheme-mega-menu.php on line 10
+[22-Jan-2020 21:58:50 Europe/Bucharest] PHP Fatal error:  Class 'Walker_Nav_Menu_Edit' not found in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/lib/class.modeltheme-mega-menu.php on line 10
+[02-Jan-2022 16:58:22 UTC] PHP Fatal error:  Class 'Walker_Nav_Menu_Edit' not found in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/mega-menu/lib/class.modeltheme-mega-menu.php on line 10

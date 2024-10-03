@@ -1,0 +1,16 @@
+[14-Aug-2019 05:21:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php on line 71
+[02-Feb-2020 05:12:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php on line 71
+[02-Feb-2020 20:21:29 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php on line 71
+[08-Jan-2022 17:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-mailchimp-subscribe-form/mt-mailchimp-subscribe-form.php on line 71

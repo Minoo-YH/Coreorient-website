@@ -1,0 +1,12 @@
+[01-Aug-2019 13:29:19 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php on line 26
+[04-Jan-2020 23:22:09 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php on line 26
+[18-Dec-2021 15:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-button/mt-bootstrap-button.php on line 26

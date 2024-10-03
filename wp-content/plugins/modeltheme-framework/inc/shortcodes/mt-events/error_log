@@ -1,0 +1,20 @@
+[13-Aug-2019 01:11:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php:118
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php on line 118
+[28-Jan-2020 04:54:16 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php:118
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php on line 118
+[29-Jan-2020 05:46:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php:118
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php on line 118
+[20-Dec-2021 11:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php on line 118
+[10-Jan-2022 08:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-events/shortcodes.mt-events.php on line 118

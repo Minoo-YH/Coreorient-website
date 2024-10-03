@@ -1,0 +1,75 @@
+[28-Apr-2019 17:43:52 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[29-Apr-2019 11:29:59 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[11-May-2019 23:15:02 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[12-May-2019 10:27:11 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[13-May-2019 11:32:26 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[14-May-2019 09:55:14 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[14-May-2019 21:47:17 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[16-May-2019 01:52:39 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[17-May-2019 06:08:34 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[17-May-2019 09:04:33 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[18-May-2019 02:25:53 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[18-May-2019 15:31:51 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[30-May-2019 15:06:41 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[30-May-2019 19:59:42 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[01-Jun-2019 03:24:52 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[01-Jun-2019 09:20:26 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[01-Jun-2019 13:24:36 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[02-Jun-2019 01:45:44 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[02-Jun-2019 13:14:01 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[13-Aug-2019 20:19:01 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[28-Jan-2020 16:06:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[09-Apr-2020 14:40:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[09-Apr-2020 20:18:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[10-Apr-2020 17:33:16 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[11-Apr-2020 10:45:44 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[12-Apr-2020 08:08:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[12-Apr-2020 18:12:52 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[13-Apr-2020 12:23:40 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[13-Apr-2020 21:35:31 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[13-Apr-2020 22:23:46 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[15-Dec-2021 15:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[10-Jan-2022 13:01:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84
+[10-Jan-2022 13:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-service_activity/mt-service_activity.php on line 84

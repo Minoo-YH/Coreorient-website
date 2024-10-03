@@ -1,0 +1,408 @@
+/* Mockup Perspective Slider - Header */
+.mockup-header {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	text-align: center;
+	z-index: 2;
+	font-size: 1.5em;
+}
+
+.mockup-header h1 {
+	position: absolute;
+	font-weight: 700;
+	font-size: 4.5em;
+	line-height: 1.2;
+	color: #fff;
+	z-index: 1000;
+	padding: 0;
+	margin: 0;
+	left: 0;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	width: 100%;
+	top: 45%;
+	-webkit-transform: translate3d(0,-50%,0);
+	transform: translate3d(0,-50%,0);
+}
+.mockup-header h1 span {
+	display: block;
+	font-size: 35%;
+}
+.mockup-header h1 a {
+	color: #eff62b;
+}
+.mockup-header h1 a:hover,
+.mockup-header h1 a:focus {
+	color: #fff;
+}
+.mockup-header h1 span::before,
+.mockup-header h1 span::after {
+	content: ' ― ';
+	font-weight: 200;
+}
+.mockup-header h1 i {
+	display: block;
+	font-size: 15%;
+	max-width: 40%;
+	margin: 0 auto;
+	line-height: 2;
+	font-style: normal;
+	font-weight: 400;
+}
+.style_mockup_3 .mockup-header h1 {
+    font-size: 70px;
+    left: 3%;
+    text-align: left;
+    width: 50%;
+}
+.style_mockup_3 .mockup-header h1 i{
+	margin: 0;
+}
+
+
+
+
+
+
+/*MOCKUP PERSPECTIVE SLIDER V1 (style_mockup_1) */
+.mockup.style_mockup_1  .mockup-header {
+    display: flex !important;
+}
+.mockup.style_mockup_1 .mockup-header h1 {
+    align-self: center !important;
+    font-size: 3.5em;
+    padding: 0 40px;
+    text-align: right;
+    top: 50%;
+}
+.mockup.style_mockup_1 .mockup-header h1 i {
+    max-width: 100%;
+    text-align: right;
+}
+.mockup.style_mockup_1 {
+	position: relative;
+	top: 0;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+.mockup.style_mockup_1::after {
+	content: '';
+	position: absolute;
+	background: rgba(0,0,0,0.5);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+.style_mockup_1 .mockup__img {
+    display: block;
+    max-width: none;
+    width: 1900px;
+    /*width: 100%;*/
+}
+.style_mockup_1 .mobile {
+	overflow: hidden;
+	position: absolute;
+	z-index: 2;
+	background: #333;
+	width: 320px;
+	height: 480px;
+	top: 200px;
+	left: 500px;
+	outline: 1px solid transparent;
+	-webkit-transform-origin: 0 0 0;
+	transform-origin: 0 0 0;
+	-webkit-transform: matrix3d(0.846234173238242, 0.251585817964749, 0, 0.000085171934399447, -0.115203182108559, 0.800700357116676, 0, -0.000214263459947427, 0, 0, 1, 0, 23, 14, 0, 1);
+	transform: matrix3d(0.846234173238242, 0.251585817964749, 0, 0.000085171934399447, -0.115203182108559, 0.800700357116676, 0, -0.000214263459947427, 0, 0, 1, 0, 23, 14, 0, 1);
+}
+.style_mockup_1 .slideshow {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	list-style-type: none;
+}
+.style_mockup_1 .slideshow__item {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	pointer-events: none;
+	z-index: 1;
+	-webkit-transform: translate3d(-100%, 0, 0);
+	transform: translate3d(-100%, 0, 0);
+}
+.style_mockup_1 .slideshow__item.current{
+	pointer-events: auto;
+	z-index: 100;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+.style_mockup_1 .slideshow img {
+	width: 100%;
+}
+.style_mockup_1 .slideshow__item.in--next {
+	-webkit-animation: inNext 0.3s forwards;
+	animation: inNext 0.3s forwards;
+}
+.style_mockup_1 .slideshow__item.out--next {
+	-webkit-animation: outNext 0.3s forwards;
+	animation: outNext 0.3s forwards;
+}
+.style_mockup_1 .slideshow__item.in--prev {
+	-webkit-animation: inPrev 0.3s forwards;
+	animation: inPrev 0.3s forwards;
+}
+.style_mockup_1 .slideshow__item.out--prev {
+	-webkit-animation: outPrev 0.3s forwards;
+	animation: outPrev 0.3s forwards;
+}
+@-webkit-keyframes inPrev {
+	0% {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+	100% {
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+@keyframes inPrev {
+	0% {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+	100% {
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+@-webkit-keyframes inNext {
+	0% {
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+	100% {
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+@keyframes inNext {
+	0% {
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+	100% {
+		-webkit-transform: none;
+		transform: none;
+	}
+}
+@-webkit-keyframes outPrev {
+	100% {
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+}
+@keyframes outPrev {
+	100% {
+		-webkit-transform: translate3d(100%, 0, 0);
+		transform: translate3d(100%, 0, 0);
+	}
+}
+@-webkit-keyframes outNext {
+	100% {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+}
+@keyframes outNext {
+	100% {
+		-webkit-transform: translate3d(-100%, 0, 0);
+		transform: translate3d(-100%, 0, 0);
+	}
+}
+
+
+
+/*MOCKUP PERSPECTIVE SLIDER V2*/
+.style_mockup_2.mockup {
+	position: relative;
+	top: 0;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+.style_mockup_2.mockup::after {
+	content: '';
+	position: absolute;
+	background: rgba(51,71,89,0.5);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+.style_mockup_2 .mockup__img {
+    display: block;
+    max-width: none;
+    width: 1900px;
+}
+.style_mockup_2 .mobile {
+	position: absolute;
+	z-index: 2;
+	overflow: hidden;
+	background: #333;
+	width: 320px;
+	height: 480px;
+	top: 400px;
+	left: 650px;
+	outline: 1px solid transparent;
+	-webkit-transform-origin: 0px 0px 0px;
+	transform-origin: 0px 0px 0px;
+	-webkit-transform: matrix3d(1.22169093616942, 0.320757077762008, 0, -0.000058475573317397, -0.757225760065735, 0.547357044147307, 0, -0.000247597171385174, 0, 0, 1, 0, 189, 21, 0, 1);
+	transform: matrix3d(1.22169093616942, 0.320757077762008, 0, -0.000058475573317397, -0.757225760065735, 0.547357044147307, 0, -0.000247597171385174, 0, 0, 1, 0, 189, 21, 0, 1);  
+}
+.style_mockup_2 .slideshow {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	list-style-type: none;
+}
+
+.style_mockup_2 .slideshow__item {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	pointer-events: none;
+	z-index: 1;
+	-webkit-transform: translate3d(-100%, 0, 0);
+	transform: translate3d(-100%, 0, 0);
+}
+.style_mockup_2 .slideshow__item.current{
+	pointer-events: auto;
+	z-index: 100;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+.style_mockup_2 .slideshow img {
+	width: 100%;
+}
+.style_mockup_2 .slideshow__item.in--next {
+	-webkit-animation: inNext 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+	animation: inNext 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+}
+.style_mockup_2 .slideshow__item.out--next {
+	-webkit-animation: outNext 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+	animation: outNext 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+}
+.style_mockup_2 .slideshow__item.in--prev {
+	-webkit-animation: inPrev 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+	animation: inPrev 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+}
+.style_mockup_2 .slideshow__item.out--prev {
+	-webkit-animation: outPrev 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+	animation: outPrev 0.5s forwards cubic-bezier(0.6,0,0.4,1);
+}
+
+
+
+
+
+
+/*STYLE 3*/
+
+.style_mockup_3.mockup {
+	position: relative;
+	top: 0;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
+.style_mockup_3.mockup::after {
+	content: '';
+	position: absolute;
+	background: rgba(51,71,89,0.5);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+.style_mockup_3 .mockup__img {
+	display: block;
+	width: 1900px;
+	max-width: none;
+}
+.style_mockup_3 .screen,
+.style_mockup_3 .mobile {
+	position: absolute;
+	overflow: hidden;
+	z-index: 2;
+	background: #333;
+	outline: 1px solid transparent;
+	-webkit-transform-origin: 0px 0px 0px;
+	transform-origin: 0px 0px 0px;
+}
+.style_mockup_3 .screen {
+	width: 1280px;
+	height: 800px;
+	top: 10px;
+	left: 600px;
+	-webkit-transform: matrix3d(0.452711184975633, 0.139863853789781, 0, -0.000095269465775677, -0.00319943882448498, 0.673512589529646, 0, 0.000049453592261685, 0, 0, 1, 0, 382, 8, 0, 1);
+	transform: matrix3d(0.452711184975633, 0.139863853789781, 0, -0.000095269465775677, -0.00319943882448498, 0.673512589529646, 0, 0.000049453592261685, 0, 0, 1, 0, 382, 8, 0, 1);
+}
+.style_mockup_3 .mobile {
+	width: 320px;
+	height: 480px;
+	top: 850px;
+	left: 525px;
+	-webkit-transform: matrix3d(0.442778970432011, 0.112834189093484, 0, -0.000053669440509915, -0.344035499291785, 0.346595156594271, 0, -0.000094674614416115, 0, 0, 1, 0, 105, 15, 0, 1);
+	transform: matrix3d(0.442778970432011, 0.112834189093484, 0, -0.000053669440509915, -0.344035499291785, 0.346595156594271, 0, -0.000094674614416115, 0, 0, 1, 0, 105, 15, 0, 1);
+}
+.style_mockup_3 .slideshow {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	list-style-type: none;
+}
+.style_mockup_3 .slideshow__item {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	pointer-events: none;
+	z-index: 1;
+	-webkit-transform: translate3d(-100%, 0, 0);
+	transform: translate3d(-100%, 0, 0);
+}
+.style_mockup_3 .slideshow__item.current{
+	pointer-events: auto;
+	z-index: 100;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+.style_mockup_3 .slideshow img {
+	width: 100%;
+	height: 100%;
+}
+.style_mockup_3 .slideshow__item.in--next {
+	-webkit-animation: inNext 0.5s forwards ease-in-out;
+	animation: inNext 0.5s forwards ease-in-out;
+}
+.style_mockup_3 .slideshow__item.out--next {
+	-webkit-animation: outNext 0.5s forwards ease-in-out;
+	animation: outNext 0.5s forwards ease-in-out;
+}
+.style_mockup_3 .slideshow__item.in--prev {
+	-webkit-animation: inPrev 0.5s forwards ease-in-out;
+	animation: inPrev 0.5s forwards ease-in-out;
+}
+.style_mockup_3 .slideshow__item.out--prev {
+	-webkit-animation: outPrev 0.5s forwards ease-in-out;
+	animation: outPrev 0.5s forwards ease-in-out;
+}
+

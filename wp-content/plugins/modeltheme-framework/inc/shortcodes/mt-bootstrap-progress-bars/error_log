@@ -1,0 +1,16 @@
+[12-Aug-2019 11:41:20 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php on line 33
+[28-Dec-2019 13:42:45 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php on line 33
+[20-Jun-2020 08:13:43 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php on line 33
+[20-Dec-2021 22:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-progress-bars/mt-bootstrap-progress-bars.php on line 33

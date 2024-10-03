@@ -1,0 +1,199 @@
+.mt--services .plus-icon {
+    position: relative;
+    border-radius: 50%;
+    display: inline-table;
+    font-size: 20px;
+    height: 40px;
+    margin: 19px 0;
+    opacity: 0.6;
+    padding: 4px 0;
+    text-align: center;
+    width: 40px;
+    transition: 250ms ease-in-out;
+    -webkit-transition: 250ms ease-in-out;
+    cursor: pointer;
+}
+.single-service .mt-ajax-content .mt-icon-list-item:last-of-type {
+    margin-bottom: 30px;
+}
+.mt--services .single-service .mt-icon-list-item:first-of-type {
+    margin-top: 30px;
+}
+.mt--services .single-service .mt-icon-list-item {
+    margin-left: 15%;
+}
+.mt--services .single-service .plus-icon i {
+    font-size: 30px;
+}
+.mt--services .single-service img {
+    margin-bottom: 30px;
+}
+.mt--services .single-service .plus-icon:hover{
+    opacity: 1;
+}
+.mt--services .single-service .post-content {
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
+.mt--services .mt-ajax-content {
+    padding: 20px 0;
+}
+.mt--services .service-icon {
+    background: rgb(79, 79, 79) none repeat scroll 0 0;
+    border-radius: 50%;
+    display: inline-table;
+    font-size: 25px;
+    height: 80px;
+    padding: 22px 0;
+    width: 80px;
+    transition: 250ms ease-in-out;
+    -webkit-transition: 250ms ease-in-out;
+}
+.mt--services .service-icon::before {
+    background: rgb(79, 79, 79) none repeat scroll 0 0;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: calc(50% - 1px);
+    width: 25%;
+    transition: 250ms ease-in-out;
+    -webkit-transition: 250ms ease-in-out;
+}
+.mt--services .service-icon::after {
+    background: rgb(79, 79, 79) none repeat scroll 0 0;
+    content: "";
+    height: 1px;
+    right: 0;
+    position: absolute;
+    top: calc(50% - 1px);
+    width: 25%;
+    transition: 250ms ease-in-out;
+    -webkit-transition: 250ms ease-in-out;
+}
+/*.mt--services .single-service:hover .service-icon::before,
+.mt--services .single-service:hover .service-icon::after,
+.mt--services .single-service:hover .service-icon {
+    background: rgb(255, 52, 101) none repeat scroll 0 0;
+}*/
+.mt--services .single-service * {
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+}
+.mt--services .single-service {
+    margin-bottom: 30px;
+}
+.mt--services .single-service .service-count {
+    font-size: 50px;
+    opacity: 0.75;
+    font-weight: 100;
+}
+.mt--services .service-description {
+    margin: 10px 0;
+    opacity: 0.75;
+}
+.mt--services .single-service .plus-icon .icon-close {
+    left: 5px;
+    opacity: 0;
+    position: absolute;
+    top: 4px;
+    visibility: hidden;
+}
+.mt--services .close-ajax.plus-icon i.icon-plus {
+    opacity: 0;
+    visibility: hidden;
+}
+.mt--services .close-ajax.plus-icon i.icon-close {
+    opacity: 1;
+    visibility: visible;
+}
+
+
+
+
+.mt--services .single-service h3 {
+    margin-top: 12px;
+}
+.mt--services .single-service h6 {
+    font-size: 12px;
+    opacity: 0.75;
+    text-transform: uppercase;
+    line-height: normal;
+}
+
+
+
+/*responsive*/
+/*1. Responsive Min_1200px*/
+@media only screen and (min-width: 1200px) {
+    
+}
+/*2. Responsive Min_1024px and Max_1200px*/
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+
+}
+/*3. Responsive Min_991px and Max_1023px*/
+@media only screen and (min-width: 991px) and (max-width: 1023px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+    .mt--services .service-title {
+        text-align: center;
+    }
+    .mt--services .service-description {
+        text-align: center;
+    }
+}
+/*4. Responsive Min_767px and Max_992px*/
+@media only screen and (min-width: 767px) and (max-width: 992px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+    .mt--services .service-title {
+        text-align: center;
+    }
+    .mt--services .service-description {
+        text-align: center;
+    }
+}
+/*5. Responsive Min_480px and Max_768px*/
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+    .mt--services .service-title {
+        text-align: center;
+    }
+    .mt--services .service-description {
+        text-align: center;
+    }
+
+}
+/*6. Responsive Min_320px and Max_480px*/
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+    .mt--services .service-title {
+        text-align: center;
+    }
+    .mt--services .service-description {
+        text-align: center;
+    }
+}
+/*7. Responsive Max_319px*/
+@media only screen and (max-width: 319px) {
+    .mt--services .single-service .service-count {
+        font-size: 40px;
+    }
+    .mt--services .service-title {
+        text-align: center;
+    }
+    .mt--services .service-description {
+        text-align: center;
+    }
+}

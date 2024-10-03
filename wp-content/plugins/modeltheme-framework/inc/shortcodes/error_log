@@ -1,0 +1,40 @@
+[16-Aug-2019 06:44:55 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Aug-2019 06:44:55 Europe/Bucharest] PHP Warning:  include_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Aug-2019 06:44:55 Europe/Bucharest] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Aug-2019 06:44:55 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php:98
+Stack trace:
+#0 /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php(45): include_once()
+#1 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php on line 98
+[07-Sep-2019 04:16:30 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[07-Sep-2019 04:16:30 Europe/Bucharest] PHP Warning:  include_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[07-Sep-2019 04:16:30 Europe/Bucharest] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[07-Sep-2019 04:16:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php:98
+Stack trace:
+#0 /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php(45): include_once()
+#1 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php on line 98
+[04-Mar-2020 06:53:13 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[04-Mar-2020 06:53:13 Europe/Bucharest] PHP Warning:  include_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[04-Mar-2020 06:53:13 Europe/Bucharest] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[04-Mar-2020 06:53:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php:98
+Stack trace:
+#0 /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php(45): include_once()
+#1 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php on line 98
+[02-Apr-2020 12:09:04 Europe/Bucharest] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[02-Apr-2020 12:09:04 Europe/Bucharest] PHP Warning:  include_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[02-Apr-2020 12:09:04 Europe/Bucharest] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[02-Apr-2020 12:09:04 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php:98
+Stack trace:
+#0 /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php(45): include_once()
+#1 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php on line 98
+[16-Dec-2021 20:13:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Dec-2021 20:13:42 UTC] PHP Warning:  include_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Dec-2021 20:13:42 UTC] PHP Warning:  include_once(): Failed opening 'ABSPATHwp-admin/includes/plugin.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php on line 42
+[16-Dec-2021 20:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php:98
+Stack trace:
+#0 /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/shortcodes.php(45): include_once()
+#1 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-portfolio/shortcodes.portfolio01.php on line 98

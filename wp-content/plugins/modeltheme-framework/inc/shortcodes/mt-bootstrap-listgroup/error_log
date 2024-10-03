@@ -1,0 +1,24 @@
+[18-Aug-2019 17:29:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22
+[19-Aug-2019 11:29:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22
+[30-Aug-2019 01:45:33 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22
+[30-Aug-2019 13:34:39 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22
+[23-Feb-2020 13:32:06 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22
+[06-Jan-2022 03:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-bootstrap-listgroup/mt-bootstrap-listgroup.php on line 22

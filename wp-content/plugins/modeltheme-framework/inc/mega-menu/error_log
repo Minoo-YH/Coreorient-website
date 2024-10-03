@@ -1,0 +1,9 @@
+[09-Apr-2019 04:05:22 UTC] PHP Fatal error:  Call to undefined function trailingslashit() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/modeltheme-mega-menu.php on line 3
+[14-Aug-2019 05:17:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/modeltheme-mega-menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/modeltheme-mega-menu.php on line 3
+[29-Jan-2020 14:04:10 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function trailingslashit() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/modeltheme-mega-menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/mega-menu/modeltheme-mega-menu.php on line 3

@@ -1,0 +1,65 @@
+.subscribe .result {
+    display: block;
+    width: 100% !important;
+}
+.mc_embed_signup {
+    margin-top: 15px;
+    overflow: hidden;
+}
+.newspaper-info {
+    color: #ffffff;
+}
+.complex-layout .subscribe h3 i {
+    margin-right: 5px;
+}
+.subscribe > input[type="text"] {
+    border: 0 none;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 0 !important;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 0 !important;
+    color: #99abb7;
+    float: left;
+    font-style: italic;
+    padding: 15px 10px;
+    width: 70%;
+}
+.subscribe > button[type="submit"] {
+    border: 0 none;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #ffffff;
+    float: left;
+    font-style: normal;
+    font-weight: 400;
+    padding: 15px 12px 14px;
+    width: 30%;
+}
+.subscribe_title {
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.complex-layout .subscribe {
+    border: 1px solid rgb(223, 229, 233);
+    overflow: hidden;
+    padding: 30px;
+}
+.complex-layout .subscribe > button[type="submit"] {
+    padding: 8px 16px;
+}
+.complex-layout .subscribe > button[type="submit"]{
+    width: auto;
+}
+.complex-layout .subscribe > input[type="text"] {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-right: 8px;
+    width: 50%;
+}
+.complex-layout .subscribe > h3 {
+    float: left;
+    font-size: 14px;
+    margin: 10px 0;
+    width: 38%;
+}
+
+

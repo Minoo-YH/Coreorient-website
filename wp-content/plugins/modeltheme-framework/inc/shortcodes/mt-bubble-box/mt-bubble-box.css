@@ -1,0 +1,28 @@
+.mt_bubble_box {
+    background: #f6f6f6 none repeat scroll 0 0;
+    padding: 30px;
+    position: relative;
+}
+.mt_bubble_box .bubble_title {
+    font-weight: bold;
+    margin: 0;
+}
+.bubble_footer_text {
+    font-weight: bold;
+    margin: 15px 0 0;
+}
+.mt_bubble_box .bubble_subtitle {
+    margin: 8px 0 15px;
+    color: #00afef;
+}
+.bubble_pointer{
+	position: absolute;
+	content: '';
+	border-style: solid;
+	display: block; 
+	width: 0px; 
+	z-index: 1; 
+}
+.bubble_footer_text > span {
+    color: #00afef;
+}

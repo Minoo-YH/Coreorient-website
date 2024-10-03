@@ -1,0 +1,8 @@
+[13-Aug-2019 05:35:23 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/svc-post-grid-addon/inc/all_function.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/svc-post-grid-addon/inc/all_function.php on line 20
+[29-Jan-2020 05:00:11 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/svc-post-grid-addon/inc/all_function.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/svc-post-grid-addon/inc/all_function.php on line 20

@@ -1,0 +1,16 @@
+[15-Aug-2019 07:34:21 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php on line 47
+[08-Sep-2019 06:47:22 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php on line 47
+[02-Feb-2020 04:45:59 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/modeltheme/public_html/mt_eagle/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php on line 47
+[16-Dec-2021 01:47:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_plugin_active() in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/eagle/public_html/wp-content/plugins/modeltheme-framework/inc/shortcodes/mt-tweets/mt-tweets.php on line 47

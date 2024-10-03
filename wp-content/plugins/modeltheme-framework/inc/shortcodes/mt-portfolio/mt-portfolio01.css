@@ -1,0 +1,159 @@
+.mt-portfolio01 .single-portfolio {
+    background: #f8f8f8 none repeat scroll 0 0;
+    margin-bottom: 30px;
+    overflow: hidden;
+    padding: 0;
+}
+.mt-portfolio01 .single-portfolio .thumbnail {
+    margin: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.mt-portfolio01 .single-portfolio .post-name {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.mt-portfolio01 .single-portfolio .mask {
+    left: 15px;
+    position: absolute;
+    top: 0;
+    width: calc(100% - 30px);
+}
+.mt-portfolio01 .single-portfolio .portfolio-name h4 {
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 15px;
+    position: relative;
+    text-transform: uppercase;
+}
+.mt-portfolio01 .portfolio-bottom-description {
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.mt-portfolio01 .single-portfolio.visible .portfolio-name i {
+    opacity: 0;
+    visibility: hidden;
+}
+.mt-portfolio01 .single-portfolio .single-portfolio-holder {
+    position: relative;
+}
+.mt-portfolio01 .single-portfolio .portfolio-name h2 {
+    background: rgb(34, 34, 34) none repeat scroll 0 0;
+    display: inline-table;
+    padding: 10px 20px;
+    margin: 10px 0;
+}
+.mt-portfolio01 .single-portfolio .portfolio-single-pic {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.mt-portfolio01 .single-portfolio .portfolio-single-pic:last-child {
+    margin-bottom: 0;
+}
+.mt-portfolio01 .single-portfolio:hover .portfolio-name h2 {
+    color: #222222 !important;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.mt-portfolio01 .single-portfolio .portfolio-name {
+    width: 100%;
+}
+.close-ajax-content {
+    position: absolute;
+    right: 10px;
+    top: -48px;
+}
+.mt-ajax-content .project-metas{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.mt-ajax-content .project-metas p {
+    margin: 0;
+}
+.portfolio-content-holder{
+    position: relative;
+}
+.mt-portfolio01 .single-portfolio *{
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+}
+.mt-portfolio01 .get-portfolio-details {
+    cursor: pointer;
+}
+.single-portfolio.visible .mask {
+    opacity: 0;
+    visibility: hidden;
+}
+.mt-portfolio01 .single-portfolio .portfolio-name i:hover {
+    transform: rotate(90deg);
+}
+.mt-portfolio01 .single-portfolio .portfolio-name i {
+    font-size: 30px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.close-ajax-content i {
+    color: #333333;
+    cursor: pointer;
+    font-size: 30px;
+}
+.mt-ajax-content {
+    color: #ffffff;
+    position: relative;
+}
+.mt-portfolio01 .single-portfolio form {
+    position: relative;
+}
+.mt-portfolio01 .single-portfolio .ajax-result {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    max-width: 100%;
+}
+.mt-portfolio01 .single-portfolio .ajax-result.visible {
+    position: relative;
+    opacity: 1;
+    visibility: visible;
+}
+.mt-portfolio01 .single-portfolio .submit-btn {
+    position: absolute;
+    right: 10%;
+    top: 50px;
+}
+/*responsive*/
+/*1. Responsive Min_1024px and Max_1200px*/
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+
+}
+/*2. Responsive Min_991px and Max_1023px*/
+@media only screen and (min-width: 991px) and (max-width: 1023px) {
+
+}
+/*3. Responsive Min_768px and Max_992px*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+}
+/*4. Responsive Min_480px and Max_767px*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+/*5. Responsive Min_320px and Max_480px*/
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .mt-portfolio01 .single-portfolio .portfolio-name h4 {
+        font-size: 15px;
+    }
+}
+/*6. Responsive Max_319px*/
+@media only screen and (max-width: 319px) {
+    .mt-portfolio01 .single-portfolio .portfolio-name h4 {
+        font-size: 15px;
+    }
+}
+/*7. Responsive Min_1200px*/
+@media only screen and (min-width: 1200px) {
+
+}
+
+
+

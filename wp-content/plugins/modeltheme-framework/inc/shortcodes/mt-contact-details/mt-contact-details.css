@@ -1,0 +1,31 @@
+.contact_details_container_shortcode {
+    padding: 50px 0;
+}
+.contact_social-links li {
+    color: white;
+    display: inline-table;
+    list-style: outside none none;
+}
+.contact_details_container_shortcode h5 {
+    font-weight: bold;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.contact_details_container_shortcode p {
+    font-size: 12px;
+    font-weight: 300;
+    opacity: 0.8;
+}
+.contact_details_container_shortcode .contact_social-links li i {
+    font-size: 25px;
+    padding: 0 10px;
+}
+.contact_details_container_shortcode .contact_details_address {
+    border-right: 1px solid rgba(235, 238, 239, 0.6);
+}
+.contact_details_container_shortcode .contact_details_phone {
+    border-right: 1px solid rgba(235, 238, 239, 0.6);
+}
+.contact_details_container_shortcode .contact_details_email {
+    border-right: 1px solid rgba(235, 238, 239, 0.6);
+}

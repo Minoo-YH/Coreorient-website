@@ -1,0 +1,57 @@
+.service_small_slides_holder {
+    background: rgb(245, 245, 245) none repeat scroll 0 0;
+}
+.mt--services_slider #service_small_slides i {
+	color: #CDCDCD;
+    font-size: 40px;
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+}
+.mt--services_slider #service_small_slides h3 {
+    margin: 0;
+    opacity: 0;
+    padding: 10px;
+    visibility: hidden;
+    transition: all 250ms ease-in-out;
+    -webkit-transition: all 250ms ease-in-out;
+}
+.mt--services_slider {
+    overflow: hidden;
+}
+.mt--services_slider i {
+    color: #2a92b7;
+    cursor: pointer;
+    font-size: 70px;
+    font-weight: 100;
+}
+.mt--services_slider #service_small_slides .synced i {
+	color: #2893B7;
+	font-size: 50px;
+}
+.mt--services_slider #service_small_slides .synced h3 {
+    opacity: 1;
+    visibility: visible;
+    text-transform: uppercase;
+    color: #2893B7;
+}
+
+.mt--services_slider #service_big_slides .service-about {
+    font-weight: 300;
+    padding: 30px 15px;
+}
+
+.mt--services_slider_holder .right-side {
+	padding: 0;
+}
+.mt--services_slider_holder .left-side{
+    background: rgb(72, 72, 72) none repeat scroll 0 0;
+    padding: 0;
+}
+.mt--services_slider_holder .left-side > div {
+    color: #ffffff;
+    padding: 24% 40px;
+    text-transform: uppercase;
+}
+.mt--services_slider .service_small_slides_holder {
+    padding: 60px 0;
+}
